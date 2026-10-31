@@ -45,7 +45,7 @@ Enquiry Recovery helps businesses organise incoming customer enquiries, track th
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/MrA436
 cd enquiry-recovery-system
 ```
 
