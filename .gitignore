@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local SQLite database (created at runtime; contains local/demo data)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Secrets and local config (keep .streamlit/config.toml tracked)
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
