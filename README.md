@@ -20,8 +20,21 @@ Enquiry Recovery helps businesses organise incoming customer enquiries, track th
 
 ## Preview
 
-<!-- Add a screenshot of the application here -->
-![Enquiry Recovery System Preview](screenshots/dashboard.png)
+### 1. Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Current Enquiries
+
+![Current Enquiries](screenshots/enquiries%201.png)
+
+### 3. New Enquiry
+
+![New Enquiry](screenshots/enquiries%202.png)
+
+### 4. Follow-ups
+
+![Follow-ups](screenshots/Follow-ups.png)
 
 ## Built with
 
